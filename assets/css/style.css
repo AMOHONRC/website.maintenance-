@@ -1,0 +1,58 @@
+body {
+    background-image: url('../img/bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+	background-size: cover;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    text-align: center; }
+
+img { 
+    max-width: 100%; }
+
+a, a:hover {
+	color: #1f3477;
+	text-decoration: none;
+    transition: all .6s; }
+
+h1, h2 {
+    font-size: 42px;
+    font-weight: 300;
+	margin-top: 10px;
+    line-height: 54px; }
+
+h3 {
+	font-size: 30px;
+    font-weight: 300;
+    line-height: 34px; }
+
+.container {
+    margin: 0 auto; }
+
+.group {
+    padding: 120px 0; }
+
+.container .logo a {
+	display: inline-block;
+	width: 180px;
+	height: 82px;
+	margin: 0;
+	padding: 0;
+	background: url(../img/logo.png) left center no-repeat; }
+
+.button-discord{
+    background-color: #22597c;
+    border-color: #1d4c6a;
+    margin-right: 10px;
+    padding: 9px;
+    color: white;
+    border-radius: 6px; }
+
+.button-twitter{
+    background-color: #368ac1;
+    border-color: #1d4c6a;
+    margin-right: 10px;
+    padding: 9px;
+    color: white;
+    border-radius: 6px; }
