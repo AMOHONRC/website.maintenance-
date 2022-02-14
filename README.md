@@ -1,3 +1,5 @@
 # website.maintenance-
 website maintenance 
-![alt text](https://media.discordapp.net/attachments/917161356820619335/921541649207820308/Logo_Complet_ThunderFight-3.png?width=946&height=676)
+![alt text](https://cdn.discordapp.com/attachments/833082696841691186/942780763600986202/unknown.png)
+
+![alt text](https://cdn.discordapp.com/attachments/833082696841691186/942780956132114452/unknown.png)
